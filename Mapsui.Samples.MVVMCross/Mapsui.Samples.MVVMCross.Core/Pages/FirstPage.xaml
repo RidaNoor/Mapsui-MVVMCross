@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mvx:MvxContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:forms="using:Xamarin.Forms" xmlns:mvx="clr-namespace:MvvmCross.Forms.Core;assembly=MvvmCross.Forms" x:Class="Mapsui.Samples.MVVMCross.Core.Pages.FirstPage" Title="First Page">
+	<mvx:MvxContentPage.Padding Thickness="5, 0, 5, 95">
+		<OnPlatform x:TypeArguments="Thickness">
+			<On Platform="Android" Value="5, 0, 5, 0" />
+			<On Platform="iOS" Value="5, 20, 5, 0" />
+		</OnPlatform>
+	</mvx:MvxContentPage.Padding>
+
+    <StackLayout Spacing="10" Orientation="Vertical">
+        <Button Command="{Binding NavigateToMapsPageCommand}" Text="Maps"/>
+    </StackLayout>
+</mvx:MvxContentPage>

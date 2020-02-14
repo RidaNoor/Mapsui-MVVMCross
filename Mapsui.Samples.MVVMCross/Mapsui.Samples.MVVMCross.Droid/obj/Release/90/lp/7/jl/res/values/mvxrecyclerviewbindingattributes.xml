@@ -1,0 +1,1 @@
+<resources><declare-styleable name="MvxRecyclerView"><attr name="MvxTemplateSelector" format="string" /></declare-styleable></resources>

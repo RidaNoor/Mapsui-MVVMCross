@@ -1,0 +1,11 @@
+C:\Users\MOHSIN\source\repos\Mapsui.Samples.MVVMCross\Mapsui.Samples.MVVMCross.Core\bin\Debug\netstandard2.0\Mapsui.Samples.MVVMCross.Core.deps.json
+C:\Users\MOHSIN\source\repos\Mapsui.Samples.MVVMCross\Mapsui.Samples.MVVMCross.Core\bin\Debug\netstandard2.0\Mapsui.Samples.MVVMCross.Core.dll
+C:\Users\MOHSIN\source\repos\Mapsui.Samples.MVVMCross\Mapsui.Samples.MVVMCross.Core\bin\Debug\netstandard2.0\Mapsui.Samples.MVVMCross.Core.pdb
+C:\Users\MOHSIN\source\repos\Mapsui.Samples.MVVMCross\Mapsui.Samples.MVVMCross.Core\obj\Debug\netstandard2.0\Application.xaml.g.cs
+C:\Users\MOHSIN\source\repos\Mapsui.Samples.MVVMCross\Mapsui.Samples.MVVMCross.Core\obj\Debug\netstandard2.0\Pages\FirstPage.xaml.g.cs
+C:\Users\MOHSIN\source\repos\Mapsui.Samples.MVVMCross\Mapsui.Samples.MVVMCross.Core\obj\Debug\netstandard2.0\Mapsui.Samples.MVVMCross.Core.AssemblyInfoInputs.cache
+C:\Users\MOHSIN\source\repos\Mapsui.Samples.MVVMCross\Mapsui.Samples.MVVMCross.Core\obj\Debug\netstandard2.0\Mapsui.Samples.MVVMCross.Core.AssemblyInfo.cs
+C:\Users\MOHSIN\source\repos\Mapsui.Samples.MVVMCross\Mapsui.Samples.MVVMCross.Core\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MOHSIN\source\repos\Mapsui.Samples.MVVMCross\Mapsui.Samples.MVVMCross.Core\obj\Debug\netstandard2.0\Mapsui.Samples.MVVMCross.Core.dll
+C:\Users\MOHSIN\source\repos\Mapsui.Samples.MVVMCross\Mapsui.Samples.MVVMCross.Core\obj\Debug\netstandard2.0\Mapsui.Samples.MVVMCross.Core.pdb
+C:\Users\MOHSIN\source\repos\Mapsui.Samples.MVVMCross\Mapsui.Samples.MVVMCross.Core\obj\Debug\netstandard2.0\Pages\MapPage.xaml.g.cs
